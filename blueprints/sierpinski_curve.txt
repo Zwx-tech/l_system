@@ -1,0 +1,6 @@
+F
+F:G-F-G G:F+G+F
+800
+60
+2
+center center

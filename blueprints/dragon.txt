@@ -1,0 +1,6 @@
+F
+F:F+G G:F-G
+1000
+90
+2
+center center
